@@ -1,0 +1,7 @@
+{
+  "extends": "@trilogy/linters",
+  "rules": {
+    "hmn-null-undefined-check": false,
+    "hmn-declare-variables-outside-loops": false
+  }
+}
